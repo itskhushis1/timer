@@ -249,7 +249,5 @@ int main() {
 		gotoxy(10,20); cout<<"Do you want to use timer again (y/n): ";
 		op = getch();
 	}while(op=='y' || op=='Y');
-	
-	
-    return 0;
+	  return 0;
 }
